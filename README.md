@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aria 👋
+# Hey, I'm Ariia 👋
 
 **Full-Stack Developer** · High-performance web apps & distributed systems · New York
 
