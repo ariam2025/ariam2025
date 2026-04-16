@@ -15,7 +15,7 @@
 
 I build robust, scalable systems — from fast frontend interfaces to distributed backends that don't break under load. I care deeply about clean architecture, performance, and shipping things that actually work.
 
-- 🔭 Currently working on **[omnix](https://github.com/ariam2025/omnix)** — a JavaScript project
+- 🔭 Currently working on **[chainclash](https://github.com/ariam2025/clainclash)** — a JavaScript project
 - 🌍 Based in **New York**
 - 🤝 Open to collaborating on **open source projects** and **developer tooling**
 - 💬 Ask me about full-stack architecture, distributed systems, or Go performance
